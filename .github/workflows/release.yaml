@@ -1,4 +1,4 @@
-name: oLane Common Tools Release
+name: oLane MCP Bridge Release
 
 on:
   push:
